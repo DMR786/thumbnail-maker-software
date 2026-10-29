@@ -194,6 +194,6 @@ The app runs on almost anything, but the experience varies a lot.
 
 ---
 
-**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-10-28 · **License:** Shared under the MIT License
+**Project status:** ✅ Active · **Version:** 2026 build · **Last updated:** 2026-10-29 · **License:** Shared under the MIT License
 
 *thumbnail-maker-software*
